@@ -1,6 +1,6 @@
 -<h1 align="center">Hi 👋, I'm Arnold Cruz</h1>
-<h2 align="center">Soy desarrollador de frontend & Educador 👨‍💻</h2>
-<h3 apasionado por la tecnología🤖, los viajes🏕, & el dibujo✍</h3>
+<h2 align="center">Soy desarrollador Frontend & Educador 👨‍💻</h2>
+<h3 align="center"> apasionado por la tecnología🤖, los viajes🏕, & el dibujo✍</h3>
 
 - 🔭 I’m currently working on **Desarrollador Frontend**
 
