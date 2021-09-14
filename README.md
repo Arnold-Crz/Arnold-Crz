@@ -3,12 +3,20 @@
 <h3> Apasionado por la tecnología🤖, los viajes🏕, & el dibujo✍</h3>
 
 <br/>
-🔭 Estoy trabajando como **Desarrollador Frontend**
+👨‍💻 Estoy trabajando como **Desarrollador Frontend**
 
-🌱 Estoy en constante aprendisaje sobre **JavaScript & React**
+🧠 Estoy en constante aprendisaje sobre **JavaScript & React**
 
 📫 How to reach me **arnoldcrzdev@gmail.com**
 
+```js
+const arnoldcrz = {
+pronouns: 'he' | 'him',
+code:[JavaScript, HTML, CSS],
+tools:[React, Node],
+designTools:[Figma]
+};
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/crz_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crz_dev" height="30" width="40" /></a>
