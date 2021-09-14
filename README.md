@@ -1,7 +1,8 @@
--<h1 align="center">Hi 👋, I'm Arnold cruz</h1>
-<h3 align="center">Soy desarrollador de frontend, apasionado por la tecnología, los viajes, & el dibujo</h3>
+-<h1 align="center">Hi 👋, I'm Arnold Cruz</h1>
+<h2 align="center">Soy desarrollador de frontend & Educador 👨‍💻</h2>
+<h3 apasionado por la tecnología🤖, los viajes🏕, & el dibujo✍</h3>
 
-- 🔭 I’m currently working on **Educador**
+- 🔭 I’m currently working on **Desarrollador Frontend**
 
 - 🌱 I’m currently learning **JavaScript & React**
 
