@@ -1,14 +1,13 @@
--<h1 align="center">Hi 👋, I'm Arnold Cruz</h1>
-<h2 align="center">Soy desarrollador Frontend & Educador 👨‍💻</h2>
-<h3 align="center"> apasionado por la tecnología🤖, los viajes🏕, & el dibujo✍</h3>
+<h1>Hola👋, soy Arnold Cruz</h1>
+<h2>Soy desarrollador Frontend & Educador 👨‍💻</h2>
+<h3> Apasionado por la tecnología🤖, los viajes🏕, & el dibujo✍</h3>
 
-- 🔭 I’m currently working on **Desarrollador Frontend**
+<br/>
+🔭 Estoy trabajando como **Desarrollador Frontend**
 
-- 🌱 I’m currently learning **JavaScript & React**
+🌱 Estoy en constante aprendisaje sobre **JavaScript & React**
 
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **arnoldcrzdev@gmail.com**
+📫 How to reach me **arnoldcrzdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
