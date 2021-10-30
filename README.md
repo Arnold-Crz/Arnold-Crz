@@ -1,4 +1,4 @@
-<h1>Hola👋, soy Arnold Cruz</h1>
+<h1>Hola👋 mi nombre es Arnold Cruz</h1>
 <h2>Soy desarrollador Frontend & Educador 👨‍💻</h2>
 
 ```js
