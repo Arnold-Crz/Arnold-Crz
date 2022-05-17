@@ -1,5 +1,6 @@
 <h1>Hola👋 mi nombre es Arnold Cruz</h1>
-<h2>Soy desarrollador Frontend & Educador 👨‍💻</h2>
+<h2>Soy desarrollador Frontend & Educador Hondureño 👨‍💻</h2>
+
 
 ```js
 const arnoldcrz = {
@@ -10,7 +11,7 @@ designTools:[Figma🐱‍🏍],
 hobbies:[Technology🤖, The trips🏕, Draw✍]
 };
 ```
-👨‍💻 Estoy trabajando como **Desarrollador Frontend**
+👨‍💻 Estoy trabajando como **Desarrollador Frontend Freelancer**
 
 🧠 Estoy en constante aprendisaje sobre **JavaScript & React**
 
